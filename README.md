@@ -114,6 +114,6 @@ The dataset contains real shipment records including:
 ## 👤 Author
 
 **Pubudu Narayana**  
-Supply Chain & Data Analytics  
-GitHub: https://github.com/pn-analyst
-LinkedIn: 
+Supply Chain & Data Analyst  
+GitHub: https://github.com/pn-analyst  
+LinkedIn: https://www.linkedin.com/in/?
